@@ -11,9 +11,8 @@ The purpose of this project is to use PostgreSQL to analyze data on a company's 
 - On the other hand, only two of PH's managers will be retiring in the next few years
 - PH has 1,549 eligible employees that could serve as mentors for newer employees
 
-[Mentorship Eligibility Results](https://imgur.com/JBGOwwp)
-
-[Retiring Employees by Title](https://imgur.com/BnQ4Zpi)
+![Mentorship Eligibility Results](Images/mentorship_eligibility.png) <br />
+![Retiring Employees by Title](Images/retiring_titles.png)
 
 ## Summary
 
